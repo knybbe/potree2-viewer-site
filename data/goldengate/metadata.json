@@ -1,0 +1,66 @@
+{
+  "attributes": [
+    {
+      "max": [
+        547000.0,
+        4184000.0,
+        719.956
+      ],
+      "min": [
+        545500.0,
+        4182500.0,
+        -70.25
+      ],
+      "name": "POSITION_CARTESIAN",
+      "numElements": 3,
+      "size": 12,
+      "type": "int32"
+    },
+    {
+      "name": "intensity",
+      "numElements": 1,
+      "size": 2,
+      "type": "uint16"
+    },
+    {
+      "name": "classification",
+      "numElements": 1,
+      "size": 1,
+      "type": "uint8"
+    }
+  ],
+  "boundingBox": {
+    "max": [
+      547000.0,
+      4184000.0,
+      1429.75
+    ],
+    "min": [
+      545500.0,
+      4182500.0,
+      -70.25
+    ]
+  },
+  "description": "Potree 2.0 point cloud",
+  "encoding": "DEFAULT",
+  "hierarchy": {
+    "depth": 5,
+    "firstChunkSize": 12298,
+    "stepSize": 4
+  },
+  "name": "gg",
+  "offset": [
+    545500.0,
+    4182500.0,
+    -70.25
+  ],
+  "points": 4500000,
+  "projection": "",
+  "scale": [
+    0.001,
+    0.001,
+    0.001
+  ],
+  "spacing": 11.71875,
+  "version": "2.0"
+}
