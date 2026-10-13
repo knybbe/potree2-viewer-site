@@ -50,8 +50,8 @@
   "description": "Potree 2.0 point cloud",
   "encoding": "DEFAULT",
   "hierarchy": {
-    "depth": 5,
-    "firstChunkSize": 8712,
+    "depth": 7,
+    "firstChunkSize": 85932,
     "stepSize": 4
   },
   "name": "ams",
@@ -60,7 +60,7 @@
     483730.0,
     -3.852
   ],
-  "points": 4300000,
+  "points": 29339880,
   "projection": "",
   "scale": [
     0.001,
@@ -68,5 +68,6 @@
     0.001
   ],
   "spacing": 10.078117187500084,
-  "version": "2.0"
+  "version": "2.0",
+  "octreeChunkSize": 90000000
 }

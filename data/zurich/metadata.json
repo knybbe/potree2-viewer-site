@@ -45,7 +45,7 @@
   "encoding": "DEFAULT",
   "hierarchy": {
     "depth": 5,
-    "firstChunkSize": 12782,
+    "firstChunkSize": 40832,
     "stepSize": 4
   },
   "name": "zh.copc",
@@ -54,7 +54,7 @@
     1247000.0,
     400.08
   ],
-  "points": 6000000,
+  "points": 12000000,
   "projection": "",
   "scale": [
     0.01,
@@ -62,5 +62,6 @@
     0.01
   ],
   "spacing": 7.812421875001746,
-  "version": "2.0"
+  "version": "2.0",
+  "octreeChunkSize": 90000000
 }
