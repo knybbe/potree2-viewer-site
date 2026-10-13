@@ -1,0 +1,3 @@
+Amsterdam-Zuid, AHN5 colourised point cloud, GeoTiles tile 25GN1_13 (thinned to 4.3M points).
+AHN point cloud: Het Waterschapshuis / AHN (CC-BY 4.0); aerial photo colouring: Beeldmateriaal Nederland (CC-BY 4.0); colourised product remixed by GeoTiles (TU Delft), CC-BY.
+https://geotiles.citg.tudelft.nl/
