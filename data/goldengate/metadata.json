@@ -45,7 +45,7 @@
   "encoding": "DEFAULT",
   "hierarchy": {
     "depth": 5,
-    "firstChunkSize": 12298,
+    "firstChunkSize": 17864,
     "stepSize": 4
   },
   "name": "gg",
@@ -54,7 +54,7 @@
     4182500.0,
     -70.25
   ],
-  "points": 4500000,
+  "points": 6000000,
   "projection": "",
   "scale": [
     0.001,
